@@ -47,4 +47,8 @@ Thank you for contributing and helping us build a great collection! 🚀
 - [bevy_mod_raycast](https://github.com/aevyrie/bevy_mod_raycast) - This is a mesh raycasting plugin for the Bevy game engine, allowing developers to perform raycasting directly into the ECS.
 - [awk-raycaster](https://github.com/TheMozg/awk-raycaster) - A pseudo-3D shooter game entirely written in the AWK programming language using the raycasting technique, inspired by classic games like Wolfenstein 3D and Doom.
 
+### 📝 Prompt Management
+
+- [Quick Prompt Raycast](https://github.com/wenyuanw/quick-prompt-raycast) - Supports quick insertion of prompt content. Allows for prompt management, import/export of data, and saving selected text as a prompt, such as creating, editing, and deleting prompts.
+
 ---
