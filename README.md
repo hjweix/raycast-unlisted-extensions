@@ -28,6 +28,10 @@ This repository collects links to third-party Raycast extensions that are not li
 
 Thank you for contributing and helping us build a great collection! 🚀
 
+## License
+
+The original content and documentation in this repository are available under the MIT License. See [LICENSE](./LICENSE). This license does not apply to third-party extensions linked in this collection; each linked project retains its own license and terms.
+
 ## 📜 The List
 
 ### 🤖 AI Tools
