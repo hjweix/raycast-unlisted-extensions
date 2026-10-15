@@ -42,6 +42,10 @@ The original content and documentation in this repository are available under th
 
 - [Assistant-Raycast](https://github.com/massCodeIO/assistant-raycast) - Fetch snippets from massCode, search and copy to clipboard.
 
+### 📷 Camera Tools
+
+- [Insta360 Link Preset Switcher](https://github.com/productgabi/raycast-insta360-link-preset-switcher) - Save and switch Insta360 Link webcam pan, tilt, and zoom presets with Raycast hotkeys.
+
 ### 🌐 Browser Tools
 
 - [Raycast Browser](https://github.com/ducan-ne/raycast-browser) - A Raycast extension that lets you control web browsers (Chrome, Edge, Brave, and Safari) through various commands.
