@@ -41,6 +41,7 @@ The original content and documentation in this repository are available under th
 ### 🔧 Developer
 
 - [Assistant-Raycast](https://github.com/massCodeIO/assistant-raycast) - Fetch snippets from massCode, search and copy to clipboard.
+- [Homelab](https://github.com/abjelosevic88/raycast-homelab) - A multi-command Raycast hub for self-hosted services, server health, media, backups, and home-lab workflows.
 
 ### 🌐 Browser Tools
 
