@@ -42,6 +42,7 @@ The original content and documentation in this repository are available under th
 
 - [Assistant-Raycast](https://github.com/massCodeIO/assistant-raycast) - Fetch snippets from massCode, search and copy to clipboard.
 - [Homelab](https://github.com/abjelosevic88/raycast-homelab) - A multi-command Raycast hub for self-hosted services, server health, media, backups, and home-lab workflows.
+- [Style Dictionary](https://github.com/ars2062/raycast-style-dictionary) - Browse and copy local design tokens with color, dimension, typography, and shadow previews.
 
 ### 🌐 Browser Tools
 
