@@ -46,6 +46,11 @@ The original content and documentation in this repository are available under th
 ### 🌐 Browser Tools
 
 - [Raycast Browser](https://github.com/ducan-ne/raycast-browser) - A Raycast extension that lets you control web browsers (Chrome, Edge, Brave, and Safari) through various commands.
+- [Little Chrome](https://github.com/TomPenguin/raycast-little-chrome) - Open URLs or Google searches in a minimal Chrome window and manage browsing history suggestions.
+
+### 🖼️ Media
+
+- [TinyPix](https://github.com/emanjusaka/tinypix) - Resize and compress selected images offline with platform presets.
 
 ### 🎮 Game Development
 
