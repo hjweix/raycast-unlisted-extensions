@@ -37,11 +37,14 @@ The original content and documentation in this repository are available under th
 ### 🤖 AI Tools
 
 - [Raycast G4F](https://github.com/XInTheDark/raycast-g4f) - A Raycast extension for interacting with free AI services via the g4f (GPT for Free) library.
+- [Relay AI](https://github.com/Hinkolas/raycast-relay) - Ask questions and chat with Codex CLI, OpenCode, or Claude Code directly in Raycast.
 
 ### 🔧 Developer
 
 - [Assistant-Raycast](https://github.com/massCodeIO/assistant-raycast) - Fetch snippets from massCode, search and copy to clipboard.
 - [Homelab](https://github.com/abjelosevic88/raycast-homelab) - A multi-command Raycast hub for self-hosted services, server health, media, backups, and home-lab workflows.
+- [Fylgja](https://github.com/erik-romson/fylgja-raycast) - Navigate local workspaces and view focused-checkout updates through the Fylgja daemon.
+- [Makedeck](https://github.com/Lorenzo-Se/makedeck) - Start project services in tmux and manage them from Raycast.
 
 ### 🌐 Browser Tools
 
