@@ -38,6 +38,7 @@ The original content and documentation in this repository are available under th
 
 - [Raycast G4F](https://github.com/XInTheDark/raycast-g4f) - A Raycast extension for interacting with free AI services via the g4f (GPT for Free) library.
 - [Relay AI](https://github.com/Hinkolas/raycast-relay) - Ask questions and chat with Codex CLI, OpenCode, or Claude Code directly in Raycast.
+- [Local AI](https://github.com/MatloobAltaf/local-ai-raycast) - Run customizable on-device AI commands on selected text without API keys or network calls.
 
 ### 🔧 Developer
 
