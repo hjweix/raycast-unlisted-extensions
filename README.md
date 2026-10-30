@@ -47,6 +47,7 @@ The original content and documentation in this repository are available under th
 - [Fylgja](https://github.com/erik-romson/fylgja-raycast) - Navigate local workspaces and view focused-checkout updates through the Fylgja daemon.
 - [Makedeck](https://github.com/Lorenzo-Se/makedeck) - Start project services in tmux and manage them from Raycast.
 - [Rex Sessions](https://github.com/esttorhe/raycast-rex-sessions) - Search and switch Rex sessions, or start one from a sesh entry or zoxide directory.
+- [Pockets](https://github.com/jillesme/raycast-pockets) - Save and paste text or images from 36 keyboard-mapped slots shared with coding agents.
 
 ### 🌐 Browser Tools
 
