@@ -48,6 +48,7 @@ The original content and documentation in this repository are available under th
 - [Makedeck](https://github.com/Lorenzo-Se/makedeck) - Start project services in tmux and manage them from Raycast.
 - [Rex Sessions](https://github.com/esttorhe/raycast-rex-sessions) - Search and switch Rex sessions, or start one from a sesh entry or zoxide directory.
 - [Pockets](https://github.com/jillesme/raycast-pockets) - Save and paste text or images from 36 keyboard-mapped slots shared with coding agents.
+- [Status](https://github.com/wassimk/raycast-st) - Set Slack and GitHub statuses from Raycast, with reminders for Linear.
 
 ### 🌐 Browser Tools
 
