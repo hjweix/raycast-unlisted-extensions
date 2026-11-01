@@ -49,6 +49,7 @@ The original content and documentation in this repository are available under th
 - [Rex Sessions](https://github.com/esttorhe/raycast-rex-sessions) - Search and switch Rex sessions, or start one from a sesh entry or zoxide directory.
 - [Pockets](https://github.com/jillesme/raycast-pockets) - Save and paste text or images from 36 keyboard-mapped slots shared with coding agents.
 - [Status](https://github.com/wassimk/raycast-st) - Set Slack and GitHub statuses from Raycast, with reminders for Linear.
+- [Ask Pi](https://github.com/tnmt-1/raycast-ask-pi) - Chat with the local Pi coding agent, manage projects, and continue Pi sessions from Raycast.
 
 ### 🌐 Browser Tools
 
