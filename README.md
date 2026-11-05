@@ -51,6 +51,7 @@ The original content and documentation in this repository are available under th
 - [Pockets](https://github.com/jillesme/raycast-pockets) - Save and paste text or images from 36 keyboard-mapped slots shared with coding agents.
 - [Status](https://github.com/wassimk/raycast-st) - Set Slack and GitHub statuses from Raycast, with reminders for Linear.
 - [Ask Pi](https://github.com/tnmt-1/raycast-ask-pi) - Chat with the local Pi coding agent, manage projects, and continue Pi sessions from Raycast.
+- [MdClip](https://github.com/uchimanajet7/mdclip) - Find local Markdown files and copy their contents from Raycast.
 
 ### 🌐 Browser Tools
 
