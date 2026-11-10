@@ -53,6 +53,7 @@ The original content and documentation in this repository are available under th
 - [Ask Pi](https://github.com/tnmt-1/raycast-ask-pi) - Chat with the local Pi coding agent, manage projects, and continue Pi sessions from Raycast.
 - [MdClip](https://github.com/uchimanajet7/mdclip) - Find local Markdown files and copy their contents from Raycast.
 - [Rinse](https://github.com/lukemcdonald/raycast-rinse) - Clean terminal formatting and wrapped lines from copied AI CLI output.
+- [Alertmanager](https://github.com/stibi/raycast-alertmanager) - Inspect Prometheus alerts and create silences across multiple Alertmanager instances.
 
 ### 🌐 Browser Tools
 
