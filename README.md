@@ -74,4 +74,9 @@ The original content and documentation in this repository are available under th
 
 - [Quick Prompt Raycast](https://github.com/wenyuanw/quick-prompt-raycast) - Supports quick insertion of prompt content. Allows for prompt management, import/export of data, and saving selected text as a prompt, such as creating, editing, and deleting prompts.
 
+### 📄 Productivity
+
+- [KovaPDF](https://github.com/KovaPDF/raycast-kovapdf) - Compress, merge, and verify PDF signatures, or convert Bijoy text to Unicode, from Raycast.
+- [DeepSeek PDF Summary](https://github.com/Johnnyzlee/raycast-deepseek-pdf-summary) - Summarize the PDF open in your browser with DeepSeek and continue asking in Raycast AI Chat.
+
 ---
