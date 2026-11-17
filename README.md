@@ -61,6 +61,7 @@ The original content and documentation in this repository are available under th
 - [Raycast Browser](https://github.com/ducan-ne/raycast-browser) - A Raycast extension that lets you control web browsers (Chrome, Edge, Brave, and Safari) through various commands.
 - [Little Chrome](https://github.com/TomPenguin/raycast-little-chrome) - Open URLs or Google searches in a minimal Chrome window and manage browsing history suggestions.
 - [Last Tabs](https://github.com/apdarr/last-tabs) - Switch to recently used tabs in Chrome or Arc from Raycast, without focusing the browser.
+- [X Search](https://github.com/raulgg/raycast-extension-x-search) - Build advanced X searches from Raycast and open the results on x.com.
 
 ### 🖼️ Media
 
@@ -79,5 +80,6 @@ The original content and documentation in this repository are available under th
 
 - [KovaPDF](https://github.com/KovaPDF/raycast-kovapdf) - Compress, merge, and verify PDF signatures, or convert Bijoy text to Unicode, from Raycast.
 - [DeepSeek PDF Summary](https://github.com/Johnnyzlee/raycast-deepseek-pdf-summary) - Summarize the PDF open in your browser with DeepSeek and continue asking in Raycast AI Chat.
+- [Chinese Lookup](https://github.com/dropoutsanta/chinese-lookup) - Look up Chinese words, convert pinyin to characters, translate text, and hear Mandarin pronunciation from Raycast.
 
 ---
