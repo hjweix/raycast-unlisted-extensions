@@ -81,5 +81,6 @@ The original content and documentation in this repository are available under th
 - [KovaPDF](https://github.com/KovaPDF/raycast-kovapdf) - Compress, merge, and verify PDF signatures, or convert Bijoy text to Unicode, from Raycast.
 - [DeepSeek PDF Summary](https://github.com/Johnnyzlee/raycast-deepseek-pdf-summary) - Summarize the PDF open in your browser with DeepSeek and continue asking in Raycast AI Chat.
 - [Chinese Lookup](https://github.com/dropoutsanta/chinese-lookup) - Look up Chinese words, convert pinyin to characters, translate text, and hear Mandarin pronunciation from Raycast.
+- [Cptr](https://github.com/aaltshuler/cptr) - Capture text, web pages, screenshots, clipboard content, and PDFs into searchable local folders.
 
 ---
